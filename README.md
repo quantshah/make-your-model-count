@@ -1,5 +1,5 @@
 # Make your model count
-#### A quickstart guide on developing and deploying your machine learning models
+#### A quickstart guide on developing and deploying your machine learning models.
 
 # Tools
     - Python
@@ -7,7 +7,7 @@
     - TensorFlow, NumPy, Matplotlib, Black, PyTest, H5py
 
 # Structure of the project
-#### The code for training and inference as a Python installable package
+#### The code for training and inference as a Python installable package.
     >> pip install -e mymodel
 
 ## Package structure
@@ -47,7 +47,7 @@
     - docs/
 
 ## Models, data and results
-#### These folder can be in any location
+#### These folders can be in any location where you actually run your project.
     - data/
       - raw/               # Save raw data using `mymodel.data.load`
       - train/             # Preproceess `mymodel.data.preprocess`
