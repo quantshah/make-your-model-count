@@ -20,17 +20,16 @@
         - __init__.py      # Defines different models
         - classifier.py         
         - gan.py                
-    - training/            # Trains different models
+      - training/            # Trains different models
         - __init__.py
         - train_classifier.py
         - train_gan.py
-    - inference/           # Predicts results
+      - inference/           # Predicts results
         - __init__.py
         - classify.py
         - generate.py
         - explain.py       # Model explanations e.g., Grad-CAM
-        - __init__.py
-    - utils.py             # Utility code
+      - utils.py             # Utility code
     - tests/               # Tests
       - __init__.py
       - test_load.py
