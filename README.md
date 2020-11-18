@@ -47,10 +47,11 @@
 
 ## Models, data and results
 #### These folders can be in any location where you actually run your project.
-    ├── data
-    │   ├── raw
-    │   ├── test
-    │   └── train
-    └── results
-        ├── checkpoints
-        └── predictions
+    ├── project-example
+    │   ├── data
+    │   │   ├── raw
+    │   │   ├── test
+    │   │   └── train
+    │   └── results
+    │       ├── checkpoints
+    │       └── predictions
